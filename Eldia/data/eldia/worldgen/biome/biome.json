@@ -1,0 +1,40 @@
+{
+  "temperature": 0,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 7536639,
+    "fog_color": 7536639,
+    "water_color": 7536639,
+    "water_fog_color": 4313086,
+    "grass_color": 4313086,
+    "foliage_color": 4313086
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "eldia:test",
+      "eldia:eldia_vegetation"
+    ]
+  ]
+}

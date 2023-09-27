@@ -1,0 +1,41 @@
+{
+  "temperature": 0.3,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 7536639,
+    "fog_color": 4313086,
+    "water_color": 7536639,
+    "water_fog_color": 4313086,
+    "grass_color": 3509036,
+    "foliage_color": 10083474,
+    "grass_color_modifier": "none"
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:creeper",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "eldia:eldia_vegetation"
+    ]
+  ]
+}

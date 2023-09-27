@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "eldia:bigbush",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 15,
+    "separation": 6,
+    "salt": 2143022979
+  }
+}

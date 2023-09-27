@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "eldia:small_volcano",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1087523799,
+    "spacing": 10,
+    "separation": 5
+  }
+}

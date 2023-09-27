@@ -1,0 +1,24 @@
+{
+  "name": "eldia:petrified_tower",
+  "fallback": "eldia:petrified_tower",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "eldia:broken_tower",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "eldia:keeper_skeleton",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

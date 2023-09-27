@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "eldia:petrified_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1427054405,
+    "spacing": 10,
+    "separation": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "temperature": 5,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16563318,
+    "fog_color": 16490039,
+    "water_color": 7536639,
+    "water_fog_color": 4313086,
+    "grass_color": 13166860,
+    "foliage_color": 15834627
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:fox",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "eldia:eldia_vegetation",
+      "eldia:green_autumn_tree",
+      "eldia:autumn_tree"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "eldia:gate",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 86,
+    "salt": 1420018861
+  }
+}
